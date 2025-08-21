@@ -217,6 +217,10 @@
 * [Github Page](https://github.com/mattermost)
 * [Handbook](https://handbook.mattermost.com)
 
+## Maxim AI
+* [Blog](https://getmaxim.ai/blog)
+* [Github Page](https://github.com/maximhq)
+
 ## Mercari
 * [Blog](https://engineering.mercari.com/en/blog/)
 
